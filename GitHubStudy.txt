@@ -1,138 +1,124 @@
-‚OF‰‚ß‚É
+ï¼ï¼šåˆã‚ã«
 
-	¡‰ñAŠwK‚·‚é‚Ì‚ÍuGitHubv‚Å‚·B
-	‚í‚©‚è‚â‚·‚¢‚µ•Ö—˜‚¾‚©‚ç‚â‚Á‚Ä‚¨‚«‚Ü‚µ‚å‚¤
+	ä»Šå›žã€å­¦ç¿’ã™ã‚‹ã®ã¯ã€ŒGitHubã€ã§ã™ã€‚
+	ã‚ã‹ã‚Šã‚„ã™ã„ã—ä¾¿åˆ©ã ã‹ã‚‰ã‚„ã£ã¦ãŠãã¾ã—ã‚‡ã†
 
-	ˆÈ‰ºAŒä‘õ
-
-	Šw‚Ô——R‚Í‚¢‚½‚Á‚ÄŠÈ’PAƒf[ƒ^‚Ì‚â‚èŽæ‚è‚ðŠÈ’P‚É‚·‚é‚½‚ß‚Å‚·B
-	¡‚Ü‚ÅŽ„‚½‚¿‚Íƒ`[ƒ€§ì‚È‚Ç‚Åƒf[ƒ^‚Ì‚â‚èŽæ‚è‚ðs‚¤Û
-	USB‚ÌŒðŠ·‚âLINE‚Å‚Ìƒf[ƒ^‚ÌŽó‚¯“n‚µ‚ðs‚Á‚Ä‚«‚Ü‚µ‚½B
-	‚µ‚©‚µA‚»‚ê‚Í‚ ‚Ü‚è‚É‚à”ñŒø—¦“I‚¾‚ÆŽv‚¢‚Ü‚¹‚ñ‚©H
-
-	‚»‚±‚ÅGitHub‚Å‚·B	
-
-	ƒlƒbƒgŠÂ‹«‚³‚¦‚ ‚ê‚ÎŠeX‚ªÅV‚Ìƒf[ƒ^‚ð‚Ü‚Æ‚ß‚ÄXV‚µA
-	‹¤—L‚µ‚ ‚¦‚é‚Æ‚Ä‚à—DG‚Èƒ\ƒtƒg‚Å‚·B
-	‚±‚ê‚³‚¦‚ ‚ê‚Îƒ`[ƒ€§ì‚Í‚à‚Á‚ÆƒXƒ€[ƒY‚Éi‚Þ‚±‚Æ‚Å‚µ‚å‚¤B
-	–ƒ`[ƒ€§ì‚ÅGitHub‚ðŽg‚¤ê‡GitHub‚ðˆµ‚¦‚È‚¢l‚Æ‚ÍŽg‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ
-
-	‚Ü‚ Aˆê‚Éƒ`[ƒ€§ì‚ð‚·‚é’‡ŠÔ‚ª‚¢‚È‚­‚Ä‚àƒtƒ@ƒCƒ‹‚ÌƒoƒbƒNƒAƒbƒv‚ðŽæ‚é
-	ƒ\ƒtƒg‚Æ‚µ‚Ä‚à—DG‚Å‚·‚Ì‚ÅŠæ’£‚Á‚Ä‚¢‚«‚Ü‚µ‚å‚¤B
+	ã¾ã‚ã€ä¸€ç·’ã«ãƒãƒ¼ãƒ åˆ¶ä½œã‚’ã™ã‚‹ä»²é–“ãŒã„ãªãã¦ã‚‚ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚’å–ã‚‹
+	ã‚½ãƒ•ãƒˆã¨ã—ã¦ã‚‚å„ªç§€ã§ã™ã®ã§é ‘å¼µã£ã¦ã„ãã¾ã—ã‚‡ã†ã€‚
 	
 	
-	@
+	ã€€
 	
 
-‚PF“±“ü
+ï¼‘ï¼šå°Žå…¥
 
-	GitHubƒAƒJƒEƒ“ƒg
+	GitHubã‚¢ã‚«ã‚¦ãƒ³ãƒˆ
 
-	@ƒuƒ‰ƒEƒU‚Åhttps://github.com/‚ÉƒAƒNƒZƒX‚µ‚Ä
-	@GitHub‚ÌƒAƒJƒEƒ“ƒg‚ðì‚è‚Ü‚·B
+	ã€€ãƒ–ãƒ©ã‚¦ã‚¶ã§https://github.com/ã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã¦
+	ã€€GitHubã®ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã‚’ä½œã‚Šã¾ã™ã€‚
 
 	GitHubDesktop
 
-	@ƒuƒ‰ƒEƒU‚Åhttps://desktop.github.com/‚ÉƒAƒNƒZƒX‚µ‚Ä
-	@GitHubDesktop‚ðƒ_ƒEƒ“ƒ[ƒh‚µ‚Ü‚·B
+	ã€€ãƒ–ãƒ©ã‚¦ã‚¶ã§https://desktop.github.com/ã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã¦
+	ã€€GitHubDesktopã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã¾ã™ã€‚
 
-	@ƒ_ƒEƒ“ƒ[ƒh‚µ‚½ƒtƒ@ƒCƒ‹‚©‚çGitHubDesktop‚ðƒCƒ“ƒXƒg[ƒ‹‚µ‚Ü‚·B
-	  ƒCƒ“ƒXƒg[ƒ‹‚ðI‚¦‚é‚ÆGitHub‚ÌƒAƒJƒEƒ“ƒg‚Ì”FØ‚ª‹‚ß‚ç‚ê‚Ü‚·B
-	@–‚·‚Å‚ÉƒTƒCƒ“ƒCƒ“Ï‚Ìê‡‹‚ß‚ç‚ê‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñ
+	ã€€ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰GitHubDesktopã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¾ã™ã€‚
+	  ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚’çµ‚ãˆã‚‹ã¨GitHubã®ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã®èªè¨¼ãŒæ±‚ã‚ã‚‰ã‚Œã¾ã™ã€‚
+	ã€€ï¼Šã™ã§ã«ã‚µã‚¤ãƒ³ã‚¤ãƒ³æ¸ˆã®å ´åˆæ±‚ã‚ã‚‰ã‚Œãªã„ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“
 
-‚QF“®‚©‚µ‚Ä‚Ý‚æ‚¤iƒoƒbƒNƒAƒbƒv•Òj
+ï¼’ï¼šå‹•ã‹ã—ã¦ã¿ã‚ˆã†ï¼ˆãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ç·¨ï¼‰
 
-	”FØ‚ðI‚¦‚½‚ç Create a New Repository on your hard drive... ‚Æ
-	‘‚©‚ê‚½ƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚µAƒfƒXƒNƒgƒbƒvã‚ÉƒtƒHƒ‹ƒ_‚ðì‚è‚Ü‚µ‚å‚¤
-	@•â‘«FƒŠƒ|ƒWƒgƒŠAƒtƒHƒ‹ƒ_AƒfƒBƒŒƒNƒgƒŠiŒµ–§‚É‚Íˆá‚¤‚ª‚¾‚¢‚½‚¢ˆêj
+	èªè¨¼ã‚’çµ‚ãˆãŸã‚‰ Create a New Repository on your hard drive... ã¨
+	æ›¸ã‹ã‚ŒãŸãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã€ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ä¸Šã«ãƒ•ã‚©ãƒ«ãƒ€ã‚’ä½œã‚Šã¾ã—ã‚‡ã†
+	ã€€è£œè¶³ï¼šãƒªãƒã‚¸ãƒˆãƒªã€ãƒ•ã‚©ãƒ«ãƒ€ã€ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªï¼ˆåŽ³å¯†ã«ã¯é•ã†ãŒã ã„ãŸã„ä¸€ç·’ï¼‰
 
-	@
-	ì¬‚µ‚½ƒtƒHƒ‹ƒ_‚É“K“–‚È’†g‚ð‘‚«ž‚ñ‚¾.txtƒtƒ@ƒCƒ‹‚ð“ü‚ê‚Ä‚­‚¾‚³‚¢
+	ã€€
+	ä½œæˆã—ãŸãƒ•ã‚©ãƒ«ãƒ€ã«é©å½“ãªä¸­èº«ã‚’æ›¸ãè¾¼ã‚“ã .txtãƒ•ã‚¡ã‚¤ãƒ«ã‚’å…¥ã‚Œã¦ãã ã•ã„
 
-	‚»‚Ì‚ ‚ÆGitHubDesktop‚Ì¶‰º‚É‚ ‚éƒ{ƒ^ƒ“‚Ì Commit to master ‚ð
-	ƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢B
-	@–‰Ÿ‚¹‚È‚¢ê‡‚Íƒ{ƒ^ƒ“ã‚ÌTextBox‚É“K“–‚É“ü—Í‚·‚ê‚Î‰Ÿ‚¹‚é‚æ‚¤‚É‚È‚è‚Ü‚·B
-	@–ƒ{ƒ^ƒ“‚ªŒ©‚Â‚©‚ç‚È‚¢l‚Í¶ã‚Ì€–Ú‚ª History ‚É‚È‚Á‚Ä‚¢‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñ
-	@@Changes ‚ÉƒNƒŠƒbƒN‚Å•ÏX‚·‚ê‚ÎŒ©‚Â‚©‚é‚Í‚¸‚Å‚·B
+	ãã®ã‚ã¨GitHubDesktopã®å·¦ä¸‹ã«ã‚ã‚‹ãƒœã‚¿ãƒ³ã® Commit to master ã‚’
+	ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚
+	ã€€ï¼ŠæŠ¼ã›ãªã„å ´åˆã¯ãƒœã‚¿ãƒ³ä¸Šã®TextBoxã«é©å½“ã«å…¥åŠ›ã™ã‚Œã°æŠ¼ã›ã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã™ã€‚
+	ã€€ï¼Šãƒœã‚¿ãƒ³ãŒè¦‹ã¤ã‹ã‚‰ãªã„äººã¯å·¦ä¸Šã®é …ç›®ãŒ History ã«ãªã£ã¦ã„ã‚‹ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“
+	ã€€ã€€Changes ã«ã‚¯ãƒªãƒƒã‚¯ã§å¤‰æ›´ã™ã‚Œã°è¦‹ã¤ã‹ã‚‹ã¯ãšã§ã™ã€‚
 
-	ƒNƒŠƒbƒN‚µ‚½‚ç¶ã‚É‚ ‚éƒ{ƒ^ƒ“‚Ì History ‚ðƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢B
-	‚·‚é‚Æ‰E‰æ–Ê‚É‘å‚«‚­.txtƒtƒ@ƒCƒ‹‚É‘‚«ž‚ñ‚¾“à—e‚ª•\Ž¦‚³‚ê‚Ü‚·B
-	‚±‚Ìƒ{ƒ^ƒ“‚ð‰Ÿ‚·sˆ×‚ð’ÊÌuƒRƒ~ƒbƒg‚·‚év‚Æ‚¢‚¢‚Ü‚·
+	ã‚¯ãƒªãƒƒã‚¯ã—ãŸã‚‰å·¦ä¸Šã«ã‚ã‚‹ãƒœã‚¿ãƒ³ã® History ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚
+	ã™ã‚‹ã¨å³ç”»é¢ã«å¤§ãã.txtãƒ•ã‚¡ã‚¤ãƒ«ã«æ›¸ãè¾¼ã‚“ã å†…å®¹ãŒè¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
+	ã“ã®ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™è¡Œç‚ºã‚’é€šç§°ã€Œã‚³ãƒŸãƒƒãƒˆã™ã‚‹ã€ã¨ã„ã„ã¾ã™
 
-	æ‚Ù‚ÇƒtƒHƒ‹ƒ_‚É”z’u‚µ‚½.txtƒtƒ@ƒCƒ‹‚Ì“à—e‚ð•ÏX‚µ‚Ä
-	“¯‚¶‚æ‚¤‚ÉƒRƒ~ƒbƒg‚µ‚Ä‚­‚¾‚³‚¢B
+	å…ˆã»ã©ãƒ•ã‚©ãƒ«ãƒ€ã«é…ç½®ã—ãŸ.txtãƒ•ã‚¡ã‚¤ãƒ«ã®å†…å®¹ã‚’å¤‰æ›´ã—ã¦
+	åŒã˜ã‚ˆã†ã«ã‚³ãƒŸãƒƒãƒˆã—ã¦ãã ã•ã„ã€‚
 
-	‚·‚é‚ÆHistory‚Ì‚Ù‚¤‚Éæ‚Ù‚Ç‚Ì.txtƒtƒ@ƒCƒ‹‚Ì“à—e‚Æ
-	Œ»Ý‚Ì.txtƒtƒ@ƒCƒ‹‚Ì“à—e‚ªŒ©‚ê‚é‚Í‚¸‚Å‚·B
+	ã™ã‚‹ã¨Historyã®ã»ã†ã«å…ˆã»ã©ã®.txtãƒ•ã‚¡ã‚¤ãƒ«ã®å†…å®¹ã¨
+	ç¾åœ¨ã®.txtãƒ•ã‚¡ã‚¤ãƒ«ã®å†…å®¹ãŒè¦‹ã‚Œã‚‹ã¯ãšã§ã™ã€‚
 
-	‚±‚¤‚·‚é‚±‚Æ‚É‚æ‚èƒtƒ@ƒCƒ‹‚âƒf[ƒ^—Ê‚ð­‚È‚­‚µ‚È‚ª‚ç
-	ƒf[ƒ^‚ÌƒoƒbƒNƒAƒbƒv‚ð‚Æ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+	ã“ã†ã™ã‚‹ã“ã¨ã«ã‚ˆã‚Šãƒ•ã‚¡ã‚¤ãƒ«ã‚„ãƒ‡ãƒ¼ã‚¿é‡ã‚’å°‘ãªãã—ãªãŒã‚‰
+	ãƒ‡ãƒ¼ã‚¿ã®ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚’ã¨ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
 
-	@•â‘«FGitHubDesktop‚Í.txtƒtƒ@ƒCƒ‹‚¾‚¯‚Å‚È‚­‚ ‚ç‚ä‚éƒf[ƒ^‚ð
-		ŠÇ—‚·‚é‚±‚Æ‚ª‰Â”\‚Å‚·B‰æ‘œƒtƒ@ƒCƒ‹‚Ì·•ª‚â
-		ƒ\[ƒXƒR[ƒh‚Ì.cppƒtƒ@ƒCƒ‹‚ÌƒoƒbƒNƒAƒbƒv‚àŽæ‚ê‚Ü‚·B
+	ã€€è£œè¶³ï¼šGitHubDesktopã¯.txtãƒ•ã‚¡ã‚¤ãƒ«ã ã‘ã§ãªãã‚ã‚‰ã‚†ã‚‹ãƒ‡ãƒ¼ã‚¿ã‚’
+		ç®¡ç†ã™ã‚‹ã“ã¨ãŒå¯èƒ½ã§ã™ã€‚ç”»åƒãƒ•ã‚¡ã‚¤ãƒ«ã®å·®åˆ†ã‚„
+		ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã®.cppãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚‚å–ã‚Œã¾ã™ã€‚
 
-		‚µ‚©‚µƒtƒ@ƒCƒ‹‚ð•¡”‚ÌŽí—Þ“ü‚ê‚é‚ÆŽè“®‚Å
-	@	ƒoƒbƒNƒAƒbƒv‚ðŽæ‚éƒtƒ@ƒCƒ‹‚ð‘I‚Ô‚Ì‚ª–Ê“|‚È‚Ì‚Å
-		‹C‚ð‚Â‚¯‚Ü‚µ‚å‚¤B
+		ã—ã‹ã—ãƒ•ã‚¡ã‚¤ãƒ«ã‚’è¤‡æ•°ã®ç¨®é¡žå…¥ã‚Œã‚‹ã¨æ‰‹å‹•ã§
+	ã€€	ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚’å–ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’é¸ã¶ã®ãŒé¢å€’ãªã®ã§
+		æ°—ã‚’ã¤ã‘ã¾ã—ã‚‡ã†ã€‚
 
-‚RF“®‚©‚µ‚Ä‚Ý‚æ‚¤iƒ`[ƒ€§ì•Òj
+ï¼“ï¼šå‹•ã‹ã—ã¦ã¿ã‚ˆã†ï¼ˆãƒãƒ¼ãƒ åˆ¶ä½œç·¨ï¼‰
 
-	æ‚ÉƒoƒbƒNƒAƒbƒv•Ò‚ðŒ©‚Ä‚¨‚­‚±‚Æ‚ð‚¨Š©‚ß‚µ‚Ü‚·B
+	å…ˆã«ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ç·¨ã‚’è¦‹ã¦ãŠãã“ã¨ã‚’ãŠå‹§ã‚ã—ã¾ã™ã€‚
 
-@ƒT[ƒo[ã‚ÉƒtƒHƒ‹ƒ_iƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠj‚ðì‚é
+ã€€ã‚µãƒ¼ãƒãƒ¼ä¸Šã«ãƒ•ã‚©ãƒ«ãƒ€ï¼ˆãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªï¼‰ã‚’ä½œã‚‹
 
-	ƒuƒ‰ƒEƒU‚Åhttps://desktop.github.com/‚ÉƒAƒNƒZƒX‚µA
-	ƒAƒJƒEƒ“ƒg‚ÅGitHub‚ÉƒTƒCƒ“ƒCƒ“‚µ‚½Œã
-	‰æ–Ê‰Eã‚É‚ ‚é { ƒ{ƒ^ƒ“‚©‚ç NewRepositry ‚ðƒNƒŠƒbƒN‚µ‚Ü‚·
+	ãƒ–ãƒ©ã‚¦ã‚¶ã§https://desktop.github.com/ã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã€
+	ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã§GitHubã«ã‚µã‚¤ãƒ³ã‚¤ãƒ³ã—ãŸå¾Œ
+	ç”»é¢å³ä¸Šã«ã‚ã‚‹ ï¼‹ ãƒœã‚¿ãƒ³ã‹ã‚‰ NewRepositry ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¾ã™
 
-	ƒtƒ@ƒ‹ƒ_‚ÉD‚«‚È–¼‘O‚ð•t‚¯‚Ü‚µ‚å‚¤
-	Repositry name@‚É‹L“ü
+	ãƒ•ã‚¡ãƒ«ãƒ€ã«å¥½ããªåå‰ã‚’ä»˜ã‘ã¾ã—ã‚‡ã†
+	Repositry nameã€€ã«è¨˜å…¥
 
-	Description ‚É‚ÍƒtƒHƒ‹ƒ_‚ÌŽg—p—p“r‚ð‘‚«‚Ü‚µ‚å‚¤
-	–•K{‚Å‚Í‚È‚¢
+	Description ã«ã¯ãƒ•ã‚©ãƒ«ãƒ€ã®ä½¿ç”¨ç”¨é€”ã‚’æ›¸ãã¾ã—ã‚‡ã†
+	ï¼Šå¿…é ˆã§ã¯ãªã„
 
-	Public‚ÆPrivate‚ª‚ ‚è‚Ü‚·‚ªˆá‚¢‚ÍŠÈ’P‚Å‚·B
-	Public‚Í‘¼‚Ìƒ†[ƒU[‚©‚ç‰{——‚³‚ê‚Ü‚·i‘S¢ŠEA‚V‚O‰­lj
-	Private‚ÍŽ©•ª‚Æ‹–‰Â‚ð‚µ‚½ƒ†[ƒU[ˆÈŠO‚Í‰{——‚Å‚«‚Ü‚¹‚ñ
+	Publicã¨PrivateãŒã‚ã‚Šã¾ã™ãŒé•ã„ã¯ç°¡å˜ã§ã™ã€‚
+	Publicã¯ä»–ã®ãƒ¦ãƒ¼ã‚¶ãƒ¼ã‹ã‚‰é–²è¦§ã•ã‚Œã¾ã™ï¼ˆå…¨ä¸–ç•Œã€ï¼—ï¼å„„äººï¼‰
+	Privateã¯è‡ªåˆ†ã¨è¨±å¯ã‚’ã—ãŸãƒ¦ãƒ¼ã‚¶ãƒ¼ä»¥å¤–ã¯é–²è¦§ã§ãã¾ã›ã‚“
 
-	“ü—Í‚µI‚¦‚½‚ç Create repositry ƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚Å
-	ƒT[ƒo[ã‚ÉƒtƒHƒ‹ƒ_iƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠj‚ðì¬‚µ‚Ü‚·B
+	å…¥åŠ›ã—çµ‚ãˆãŸã‚‰ Create repositry ãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã§
+	ã‚µãƒ¼ãƒãƒ¼ä¸Šã«ãƒ•ã‚©ãƒ«ãƒ€ï¼ˆãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªï¼‰ã‚’ä½œæˆã—ã¾ã™ã€‚
 
-@ƒfƒXƒNƒgƒbƒvã‚ÉƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ðƒRƒs[‚·‚é	
+ã€€ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ä¸Šã«ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã‚’ã‚³ãƒ”ãƒ¼ã™ã‚‹	
 
-	‚±‚±‚ÅGitHubDesktop‚É–ß‚è‚Ü‚·B
+	ã“ã“ã§GitHubDesktopã«æˆ»ã‚Šã¾ã™ã€‚
 
-	‚·‚Å‚ÉDesktopã‚ÉGitHubDesktop‚Åì¬‚µ‚½ƒtƒHƒ‹ƒ_‚ª‚ ‚éê‡	
+	ã™ã§ã«Desktopä¸Šã«GitHubDesktopã§ä½œæˆã—ãŸãƒ•ã‚©ãƒ«ãƒ€ãŒã‚ã‚‹å ´åˆ	
 
-	@¶ã‚Ì Current repository ‚ðƒNƒŠƒbƒN‚µAAdd ‚ðƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢
-	@‚»‚Ì‚ ‚Æ GitHub.com ‚Æ‚¢‚¤€–Ú‚ªo‚Ä‚­‚é‚Ì‚Å‚»‚ê‚ðƒNƒŠƒbƒN‚µ‚Ä
-	@GitHub‚ÉƒTƒCƒ“ƒCƒ“‚ð‹‚ß‚ç‚ê‚½‚ç‘f’¼‚ÉƒTƒCƒ“ƒCƒ“‚µ‚Ä‚­‚¾‚³‚¢B
+	ã€€å·¦ä¸Šã® Current repository ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã€Add ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„
+	ã€€ãã®ã‚ã¨ GitHub.com ã¨ã„ã†é …ç›®ãŒå‡ºã¦ãã‚‹ã®ã§ãã‚Œã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦
+	ã€€GitHubã«ã‚µã‚¤ãƒ³ã‚¤ãƒ³ã‚’æ±‚ã‚ã‚‰ã‚ŒãŸã‚‰ç´ ç›´ã«ã‚µã‚¤ãƒ³ã‚¤ãƒ³ã—ã¦ãã ã•ã„ã€‚
 
-	@‚·‚é‚ÆYour repositories ‚Æ‚¢‚¤€–Ú—“‚Éæ‚Ù‚Çì‚Á‚½ƒtƒHƒ‹ƒ_‚ª
-	@‚ ‚é‚Í‚¸‚È‚Ì‚Å‚»‚ê‚ð‘I‘ð‚µ‚½ŒãALocal Path‚É Desktop‚ð
-	@‘I‘ð‚µ‚Ä Clone ƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚µ‚Ü‚·B
+	ã€€ã™ã‚‹ã¨Your repositories ã¨ã„ã†é …ç›®æ¬„ã«å…ˆã»ã©ä½œã£ãŸãƒ•ã‚©ãƒ«ãƒ€ãŒ
+	ã€€ã‚ã‚‹ã¯ãšãªã®ã§ãã‚Œã‚’é¸æŠžã—ãŸå¾Œã€Local Pathã« Desktopã‚’
+	ã€€é¸æŠžã—ã¦ Clone ãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¾ã™ã€‚
 
-	@ƒfƒXƒNƒgƒbƒvã‚Éæ‚Ù‚ÇƒT[ƒo[ã‚É§ì‚µ‚½ƒtƒHƒ‹ƒ_‚ª
-	@ƒRƒs[‚³‚ê‚Ü‚·B
+	ã€€ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ä¸Šã«å…ˆã»ã©ã‚µãƒ¼ãƒãƒ¼ä¸Šã«åˆ¶ä½œã—ãŸãƒ•ã‚©ãƒ«ãƒ€ãŒ
+	ã€€ã‚³ãƒ”ãƒ¼ã•ã‚Œã¾ã™ã€‚
 
-	@‚±‚Ìƒ{ƒ^ƒ“‚ð‰Ÿ‚·sˆ×‚ðuƒNƒ[ƒ“‚ðì¬‚·‚év‚Æ‚¢‚¢‚Ü‚·
+	ã€€ã“ã®ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™è¡Œç‚ºã‚’ã€Œã‚¯ãƒ­ãƒ¼ãƒ³ã‚’ä½œæˆã™ã‚‹ã€ã¨ã„ã„ã¾ã™
 
-	Desktopã‚ÉGitHubDesktop‚Åì¬‚µ‚½ƒtƒHƒ‹ƒ_‚ª‚È‚¢ê‡
+	Desktopä¸Šã«GitHubDesktopã§ä½œæˆã—ãŸãƒ•ã‚©ãƒ«ãƒ€ãŒãªã„å ´åˆ
 
-	@Clone a repository from the Internet...‚Æ‚¢‚¤€–Ú‚ðƒNƒŠƒbƒN‚µ
-	@‚ ‚Æ‚Í‚¾‚¢‚½‚¢ã‚Æˆê‚Å‚·B
+	ã€€Clone a repository from the Internet...ã¨ã„ã†é …ç›®ã‚’ã‚¯ãƒªãƒƒã‚¯ã—
+	ã€€ã‚ã¨ã¯ã ã„ãŸã„ä¸Šã¨ä¸€ç·’ã§ã™ã€‚
 
-@‘‚«Š·‚¦‚½“à—e‚ðƒT[ƒo[‚ÉƒAƒbƒviƒtƒFƒbƒ`j‚·‚é
+ã€€æ›¸ãæ›ãˆãŸå†…å®¹ã‚’ã‚µãƒ¼ãƒãƒ¼ã«ã‚¢ãƒƒãƒ—ï¼ˆãƒ•ã‚§ãƒƒãƒï¼‰ã™ã‚‹
 
 
-	ã‚Åì¬‚µ‚½ƒNƒ[ƒ“‚ÌƒtƒHƒ‹ƒ_‚É“K“–‚È.txtƒtƒ@ƒCƒ‹‚ð“ü‚ê‚Ü‚·B
-	‰æ–Êã’†‰›“–‚½‚è‚É Fetch origin ‚Æ‚¢‚¤€–Ú‚ðƒNƒŠƒbƒN‚·‚é‚Æ
-	ƒuƒ‰ƒEƒUã‚É‚»‚Ì.txtƒtƒ@ƒCƒ‹‚ª‚ ‚é‚Ì‚ª‚í‚©‚è‚Ü‚·B
+	ä¸Šã§ä½œæˆã—ãŸã‚¯ãƒ­ãƒ¼ãƒ³ã®ãƒ•ã‚©ãƒ«ãƒ€ã«é©å½“ãª.txtãƒ•ã‚¡ã‚¤ãƒ«ã‚’å…¥ã‚Œã¾ã™ã€‚
+	ç”»é¢ä¸Šä¸­å¤®å½“ãŸã‚Šã« Fetch origin ã¨ã„ã†é …ç›®ã‚’ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ã¨
+	ãƒ–ãƒ©ã‚¦ã‚¶ä¸Šã«ãã®.txtãƒ•ã‚¡ã‚¤ãƒ«ãŒã‚ã‚‹ã®ãŒã‚ã‹ã‚Šã¾ã™ã€‚
 
-	‚±‚Ìsˆ×‚ðuƒtƒFƒbƒ`‚·‚év‚Æ‚¢‚¢‚Ü‚·
+	ã“ã®è¡Œç‚ºã‚’ã€Œãƒ•ã‚§ãƒƒãƒã™ã‚‹ã€ã¨ã„ã„ã¾ã™
 
-@
+ã€€
 
 	
 	
